@@ -2,7 +2,7 @@
 
 *Overview*
 
-The **AKER GrowSquare** is a raised plant bed designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
+The **AKER GrowSquare** is a raised garden bed designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
 ![GrowSquare](https://github.com/AKERKits/GrowSquare/blob/master/Images/AKER%20-%20GrowSquare%20-%20v1.0%20-%20Master%20Assembly%20(side%20view)%20Cropped-min.jpg)
 
